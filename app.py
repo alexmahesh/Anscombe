@@ -15,6 +15,7 @@ st.set_page_config(layout='wide')
 df = pd.read_csv('data/anscombe.csv')
 
 st.title('Anscombe Quartet Dataset')
+st.image('img/charts.png')
 st.markdown("""
             The Anscombe Quartet Dataset consists of four datasets that have nearly identical
 descriptive statistics but very different charts.  
