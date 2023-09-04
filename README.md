@@ -1,12 +1,12 @@
 # Anscombe Quartet Dataset
 
 The Anscombe Quartet Dataset consists of four datasets that have nearly identical
-descriptive statistics but very different charts.  
-It was created by 1973 by the statistician Francis Anscombe to show (among others) the 
-importance of using graphics/charts in data analysis.  
+descriptive statistics but very different charts. It was created by 1973 by the statistician Francis Anscombe to show (among others) the importance of using graphics/charts in data analysis.  
 
 In this small example I show how to use Pandas, Plotly and Streamlit to do a 
 quick EDA on the Anscombe Quartett.  
+
+You can explore the dataset with the help of a Streamlit Dashboard here: [Anscombe Dashboard](https://anscombe.streamlit.app/)  
 
 ![Charts](img/charts.png)
 
