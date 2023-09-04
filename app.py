@@ -22,6 +22,8 @@ quick EDA on the Anscombe Quartett.
 You can choose one of the four datasets and see how similar their values and descriptive
 statistics are but how different their drawn charts looks.  
 
+If you want to have a look at the Python code, you can find it here: [Repository](https://github.com/alexmahesh/Anscombe).  
+
 You can read more about Francis Anscombe and his dataset on [Wikipedia](https://en.wikipedia.org/wiki/Anscombe%27s_quartet).  
 You can learn more about the Python Pandas library here: [Pandas](https://pandas.pydata.org/).  
 You can learn more about the Streamlit library on: [Streamlit](https://docs.streamlit.io/).  
